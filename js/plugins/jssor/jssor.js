@@ -2035,7 +2035,7 @@ var $Jssor$ = window.$Jssor$ = new function () {
             if (_StyleGetter[key]) {
                 styles[key] = _StyleGetter[key](elmt);
             }
-  ÀÕ¥    ÀÕ¥                    @ã„            á„    (Ö¥            àÕ¥    Pd      àÕ¥             var styleSetter = StyleSetter();
+  ðSÃ    ðSÃ                     ¹            ða˜    XTÃ            TÃ    Pd      TÃ             var styleSetter = StyleSetter();
 
         Each(styles, function (value, key) {
             styleSetter[key] && styleSetter[key](elmt, value);
